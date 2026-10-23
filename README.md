@@ -5,6 +5,26 @@ One of the first projects in my past was browser based MMO Wiltarius, written in
 
 My thesis “Procedural Building Generation in Unity” allowed me to create buildings either by code or in unity editor. A level designer could put walls like in the game “The Sims” to create a building of his choice. It did not use preexisting components, instead it made mesh of the walls by code by calculating its vertices, triangles and normals. Walls were made by segments, which could be plain walls or have windows or doors in them. It optimised it by merging plains walls that were in succession. It was capable of saving calculated meshes and allowed its editing at runtime.
 
+# Proto-Segmentis (2018 Thesis Prototype)
+
+> **Official University Thesis Project:** *Procedural Building Generation*  
+> **Author:** Daniel Szczypior | **Institution:** Institute of Technology, Tralee (Munster Technological University)  
+> **Degree:** B.Sc. (Hons) in Computing with Games Development[cite: 2]
+
+---
+
+## 📚 Read the Official Thesis Document
+
+The complete 68-page academic thesis detailing the mathematical models, vertex/triangle winding rules, and Unity implementation is embedded directly in this repository:
+
+👉 **[View Full Academic Thesis PDF](docs/Procedural_Building_Generation.pdf)**
+
+| Thesis Defense Poster | Printed Thesis Book |
+| :---: | :---: |
+| ![Thesis Presentation Poster](docs/thesis-poster.jpg) | ![Printed Thesis Book](docs/thesis-book.jpg) |
+
+---
+
 I represented my university at “The 11th International Conference on Applied Informatics in Eger, Hungary, January 29–31, 2020”
 
 I was also one of the instructors at two weeklong summer camp „Goalmine Summer Camp” at Institute of Technology Tralee.
