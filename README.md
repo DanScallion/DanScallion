@@ -41,15 +41,12 @@ I was also one of the instructors at two weeklong summer camp „Goalmine Summer
 * **Anomaly & Event Detection:** Engineered rule-based logic aligned with EU water regulations to identify and flag water quality pollution events and sensor anomalies in real-time.
 * **Dissemination:** Selected to represent the university and present research findings at **The 11th International Conference on Applied Informatics (ICAI)** in Eger, Hungary (Jan 2020).
 
-<img width="896" height="1280" alt="image" src="https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706" />
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/80e25935-6001-4267-9849-02f2e386c899" />
-<img width="3072" height="4096" alt="IMG_20261023_160542011" src="https://github.com/user-attachments/assets/b61f587f-dc43-4299-9f2e-fe6100a572ea" />
-<img width="3072" height="4096" alt="IMG_20261023_160538235" src="https://github.com/user-attachments/assets/31f28ce3-bfc1-4a37-929a-85db8f2e7126" />
-<img width="3072" height="4096" alt="IMG_20261023_160530397" src="https://github.com/user-attachments/assets/1d399079-b8e6-4892-9ce9-e51b7965a807" />
-<img width="3072" height="4096" alt="IMG_20261023_160523716_HDR" src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d" />
-
-<img width="3456" height="4608" alt="DSCF0465" src="https://github.com/user-attachments/assets/0ff2206a-ae53-49e5-97f3-640228076ae2" />
-
+| Image | Image |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706" width="400" alt="image" /> | <img src="https://github.com/user-attachments/assets/80e25935-6001-4267-9849-02f2e386c899" width="400" alt="image" /> |
+| <img src="https://github.com/user-attachments/assets/b61f587f-dc43-4299-9f2e-fe6100a572ea" width="400" alt="IMG_20261023_160542011" /> | <img src="https://github.com/user-attachments/assets/31f28ce3-bfc1-4a37-929a-85db8f2e7126" width="400" alt="IMG_20261023_160538235" /> |
+| <img src="https://github.com/user-attachments/assets/1d399079-b8e6-4892-9ce9-e51b7965a807" width="400" alt="IMG_20261023_160530397" /> | <img src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d" width="400" alt="IMG_20261023_160523716_HDR" /> |
+| <img src="https://github.com/user-attachments/assets/0ff2206a-ae53-49e5-97f3-640228076ae2" width="400" alt="DSCF0465" /> | |
 
 <!--
 **DanScallion/DanScallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
