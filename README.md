@@ -11,13 +11,15 @@ I was also one of the instructors at two weeklong summer camp „Goalmine Summer
 
 ### 🔬 Academic & Scientific Research Background
 
-* **Institution:** Munster Technological University (MTU)
-* **Research Focus:** Machine Learning for Predicting and Analysing Water Quality
-* **Highlights:** 
-  * Completed full data science research pipelines and algorithmic modeling.
-  * Authored the comprehensive master's thesis manuscript.
-  * **Conference Presentation:** Presented research at *The 11th International Conference on Applied Informatics (ICAI)* in Eger, Hungary (2020).
+## 🔬 Postgraduate Academic Research
 
+#### **Machine Learning for Predicting and Analysing Water Quality**
+*Institute of Technology Tralee / Munster Technological University (MTU)*  
+**Co-Authors:** Daniel Szczypior, Andrew Shields, Dr. Pat Doody
+* **Data Engineering & Pre-processing:** Handled complex multi-variable time-series data from the **Environmental Protection Agency of Ireland (EPA)** and **Water Framework Directive (WFD)**. Applied advanced missing-data imputation techniques including **MICE**, **$k$-NN Imputation**, and **Deep Learning Datawig**.
+* **Algorithmic Modeling & Benchmarking:** Evaluated and benchmarked multiple architectures—including **Logistic Regression**, **Support Vector Machines (SVM)**, **Deep Neural Networks (DNN)**, and **LSTM/RNNs**—optimized against $F1$-score metrics to handle severe dataset class imbalance.
+* **Anomaly & Event Detection:** Engineered rule-based logic aligned with EU water regulations to identify and flag water quality pollution events and sensor anomalies in real-time.
+* **Dissemination:** Selected to represent the university and present research findings at **The 11th International Conference on Applied Informatics (ICAI)** in Eger, Hungary (Jan 2020).
 
 <img width="896" height="1280" alt="image" src="https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706" />
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/80e25935-6001-4267-9849-02f2e386c899" />
