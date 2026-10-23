@@ -9,6 +9,13 @@ I represented my university at “The 11th International Conference on Applied I
 
 I was also one of the instructors at two weeklong summer camp „Goalmine Summer Camp” at Institute of Technology Tralee.
 
+Munster Technological University (MTU)
+Postgraduate Researcher / M.Sc. by Research (Coursework & Research Completed)
+Thesis Project: Machine Learning for Predicting and Analysing Water Quality
+Executed a full data science and machine learning research cycle, designing models, processing complex environmental datasets, and drafting the complete master's thesis manuscript.
+
+International Publication & Presentation: Represented the university and presented peer-reviewed research at The 11th International Conference on Applied Informatics (ICAI) in Eger, Hungary (January 29–31, 2020).
+
 
 <img width="896" height="1280" alt="image" src="https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706" />
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/80e25935-6001-4267-9849-02f2e386c899" />
