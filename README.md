@@ -43,6 +43,9 @@ I represented my university at “The 11th International Conference on Applied I
 
 I was also one of the instructors at two weeklong summer camp „Goalmine Summer Camp” at Institute of Technology Tralee.
 
+
+* **Course:** [Qualified Personal and Property Security Guard Training](https://www.grom-ochrona.pl/oferta/europejski-instytut-ksztalcenia-zawodowego-grom/) – European Institute of Vocational Training "GROM" (*Europejski Instytut Kształcenia Zawodowego "GROM"*)
+
 <!--
 **DanScallion/DanScallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
