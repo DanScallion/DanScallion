@@ -26,6 +26,7 @@ The complete 68-page academic thesis detailing the mathematical models, vertex/t
 ---
 
 I represented my university at “The 11th International Conference on Applied Informatics in Eger, Hungary, January 29–31, 2020”
+* **Presentation:** [Machine Learning for Predicting and Analysing Water Quality](https://icai.uni-eszterhazy.hu/2020/?program) – 11th International Conference on Applied Informatics (ICAI 2020), Eger, Hungary
 
 I was also one of the instructors at two weeklong summer camp „Goalmine Summer Camp” at Institute of Technology Tralee.
 
