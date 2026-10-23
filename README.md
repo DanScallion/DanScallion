@@ -28,8 +28,6 @@ The complete 68-page academic thesis detailing the mathematical models, vertex/t
 I represented my university at “The 11th International Conference on Applied Informatics in Eger, Hungary, January 29–31, 2020”
 * **Presentation:** [Machine Learning for Predicting and Analysing Water Quality](https://icai.uni-eszterhazy.hu/2020/?program) – 11th International Conference on Applied Informatics (ICAI 2020), Eger, Hungary
 
-I was also one of the instructors at two weeklong summer camp „Goalmine Summer Camp” at Institute of Technology Tralee.
-
 ## 🔬 Postgraduate Academic Research
 
 #### **Machine Learning for Predicting and Analysing Water Quality**
@@ -42,6 +40,8 @@ I was also one of the instructors at two weeklong summer camp „Goalmine Summer
 
 | <img src="https://github.com/user-attachments/assets/80e25935-6001-4267-9849-02f2e386c899" height="400" alt="image" /> | <img src="https://github.com/user-attachments/assets/0ff2206a-ae53-49e5-97f3-640228076ae2" height="400" alt="DSCF0465" /> |
 |---|---|
+
+I was also one of the instructors at two weeklong summer camp „Goalmine Summer Camp” at Institute of Technology Tralee.
 
 <!--
 **DanScallion/DanScallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
