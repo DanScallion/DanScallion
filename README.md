@@ -21,7 +21,7 @@ The complete 68-page academic thesis detailing the mathematical models, vertex/t
 
 | Thesis Defense Poster | Printed Thesis Book |
 | :---: | :---: |
-| ![Thesis Presentation Poster]([docs/thesis-poster.jpg](https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706)) | ![Printed Thesis Book](IMG_20261023_160523716_HDR" src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d) |
+| <img src="https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706" width="100%" alt="Presentation Poster" /> | <img src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d" width="100%" alt="Printed Thesis Book" /> |
 
 ---
 
