@@ -45,6 +45,7 @@ I was also one of the instructors at two weeklong summer camp „Goalmine Summer
 
 
 * **Course:** [Qualified Personal and Property Security Guard Training](https://www.grom-ochrona.pl/oferta/europejski-instytut-ksztalcenia-zawodowego-grom/) – European Institute of Vocational Training "GROM" (*Europejski Instytut Kształcenia Zawodowego "GROM"*)
+* **Course:** [Qualified Technical Security Officer Training](https://www.grom-ochrona.pl/oferta/europejski-instytut-ksztalcenia-zawodowego-grom/) – European Institute of Vocational Training "GROM" (*In Progress*)
 
 <!--
 **DanScallion/DanScallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
