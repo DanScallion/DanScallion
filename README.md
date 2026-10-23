@@ -27,6 +27,8 @@ I was also one of the instructors at two weeklong summer camp „Goalmine Summer
 <img width="3072" height="4096" alt="IMG_20261023_160523716_HDR" src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d" />
 [Procedural Building Generation.pdf](https://github.com/user-attachments/files/33875557/Procedural.Building.Generation.pdf)
 
+<img width="3456" height="4608" alt="DSCF0465" src="https://github.com/user-attachments/assets/0ff2206a-ae53-49e5-97f3-640228076ae2" />
+
 
 <!--
 **DanScallion/DanScallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
