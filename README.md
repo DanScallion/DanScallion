@@ -17,11 +17,11 @@ My thesis “Procedural Building Generation in Unity” allowed me to create bui
 
 The complete 68-page academic thesis detailing the mathematical models, vertex/triangle winding rules, and Unity implementation is embedded directly in this repository:
 
-👉 **[View Full Academic Thesis PDF](docs/Procedural_Building_Generation.pdf)**
+👉 **[View Full Academic Thesis PDF](https://github.com/DanScallion/Proto-Segmentis/releases/download/v1.0-thesis/Procedural_Building_Generation.pdf)**
 
 | Thesis Defense Poster | Printed Thesis Book |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706" width="65%" alt="Presentation Poster" /> | <img src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d" width="65%" alt="Printed Thesis Book" /> |
+| <img src="https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706" width="100%" alt="Presentation Poster" /> | <img src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d" width="100%" alt="Printed Thesis Book" /> |
 ---
 
 I represented my university at “The 11th International Conference on Applied Informatics in Eger, Hungary, January 29–31, 2020”
