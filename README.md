@@ -21,7 +21,7 @@ The complete 68-page academic thesis detailing the mathematical models, vertex/t
 
 | Thesis Defense Poster | Printed Thesis Book |
 | :---: | :---: |
-| ![Thesis Presentation Poster](docs/thesis-poster.jpg) | ![Printed Thesis Book](docs/thesis-book.jpg) |
+| ![Thesis Presentation Poster]([docs/thesis-poster.jpg](https://github.com/user-attachments/assets/b71c6941-10a7-46b6-9b19-a9fc86c86706)) | ![Printed Thesis Book](IMG_20261023_160523716_HDR" src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d) |
 
 ---
 
@@ -47,7 +47,6 @@ I was also one of the instructors at two weeklong summer camp „Goalmine Summer
 <img width="3072" height="4096" alt="IMG_20261023_160538235" src="https://github.com/user-attachments/assets/31f28ce3-bfc1-4a37-929a-85db8f2e7126" />
 <img width="3072" height="4096" alt="IMG_20261023_160530397" src="https://github.com/user-attachments/assets/1d399079-b8e6-4892-9ce9-e51b7965a807" />
 <img width="3072" height="4096" alt="IMG_20261023_160523716_HDR" src="https://github.com/user-attachments/assets/2f000ccb-02cf-4cd8-a2f1-c03d72638d9d" />
-[Procedural Building Generation.pdf](https://github.com/user-attachments/files/33875557/Procedural.Building.Generation.pdf)
 
 <img width="3456" height="4608" alt="DSCF0465" src="https://github.com/user-attachments/assets/0ff2206a-ae53-49e5-97f3-640228076ae2" />
 
